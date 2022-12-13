@@ -14,7 +14,5 @@
 * 시연영상
      * 유튜브링크
          * [시연영상] https://youtu.be/IPOdAsBHqfc       
-- 프로젝트(폴더)
-    - [1.기본기능](https://github.com/surplus1492/Ai_Project/tree/main/src/1.basic)
-    - [2.조건문](https://github.com/surplus1492/Ai_Project/tree/main/src/2.if)
-    - 3.반복문
+- 코드사진
+    - ![1제목 없음](https://user-images.githubusercontent.com/112451753/207225203-5a4a22ed-ed01-4b85-bccf-c3c75ae1090d.jpg)
